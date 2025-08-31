@@ -17,7 +17,7 @@
   "contributes": {
     "commands": [
       {
-        "command": "recoverCommitCode.recoverEntity",
+        "command": "git-rescue.recoverEntity",
         "title": "Recover Code from Commit"
       }
     ]
